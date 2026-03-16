@@ -241,7 +241,7 @@ This platform demonstrates **production-grade prompt engineering** across every 
 
 The app is **free to use for 5 analyses** without an account.
 
-After 5 uses, you'll be prompted to create a free account to continue.
+After 2 uses, you'll be prompted to create a free account to continue.
 
 ---
 
