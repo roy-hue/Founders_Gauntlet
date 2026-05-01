@@ -1,457 +1,633 @@
 ```markdown
 # 🧠 Cognitive AI Evolution
-### *Stop Guessing. Start Building. Start Earning.*
 
-> You have an idea. Most people stop there.
-> This platform turns that idea into a **complete, operational, revenue-generating business system** —
-> pricing model, incentive architecture, live storefront, investor pitch, and financial projections —
-> delivered in minutes, for a single payment.
+<div align="center">
 
-![Platform](https://img.shields.io/badge/Built%20on-Base44-6366f1?style=for-the-badge&logoColor=white)
-![Payments](https://img.shields.io/badge/Payments-Stripe%20Live%20Mode-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
-![AI](https://img.shields.io/badge/AI-GPT--4o%20%2F%20Claude%20Sonnet-10a37f?style=for-the-badge&logoColor=white)
-![Stack](https://img.shields.io/badge/Frontend-React%2018%20%2B%20Vite-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Backend](https://img.shields.io/badge/Backend-Deno%20Deploy-000000?style=for-the-badge&logo=deno&logoColor=white)
+### *The Business Intelligence Platform That Turns One Idea Into a Revenue-Ready System*
 
----
+<br>
 
-## 💬 The Problem This Solves
+> **"Most founders spend 6 months planning before making $1."**
+> **This platform delivers the full system in minutes.**
 
-Most founders spend **months planning and thousands of dollars** before making a single sale.
-They guess on pricing. They skip the incentive structure. They build before validating.
+<br>
 
-> **Cognitive AI Evolution eliminates all of that.**
+[![💡 Launch Platform](https://img.shields.io/badge/💡%20LAUNCH%20PLATFORM-GET%20STARTED%20→-f59e0b?style=for-the-badge)](https://your-app-url.base44.app)
+[![💳 One-Time Payment](https://img.shields.io/badge/💳%20ONE--TIME%20PAYMENT-%24200%20ONLY-22c55e?style=for-the-badge)](https://your-app-url.base44.app)
+[![🔴 Live Payments](https://img.shields.io/badge/🔴%20LIVE%20PAYMENTS-STRIPE%20ACTIVE-635BFF?style=for-the-badge&logo=stripe)](https://your-app-url.base44.app)
 
-One $200 payment. One business idea. **Twelve complete deliverables** — built from your actual concept,
-not a template — ready to execute, present, and earn from before you leave the platform.
+<br>
 
----
+![React](https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Deno](https://img.shields.io/badge/Deno_Deploy-000000?style=flat-square&logo=deno&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe_Live-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![GPT-4o](https://img.shields.io/badge/GPT--4o%20%2F%20Claude-10a37f?style=flat-square)
 
-## ✨ What You Get — The 16-Feature System
+</div>
 
 ---
 
-### 💡 1 · Idea Analysis Engine
-**→ *Your raw idea, transformed into a structured business blueprint***
+## 🔴 The Problem
 
-&nbsp;
-
-- Paste any business concept — no formatting required
-- AI structures it into a complete commercial framework automatically
-- All results saved permanently to your account
-- The foundation every other feature builds on
-
----
-
-### 🏗️ 2 · Incentive Stack Architecture
-**→ *Make your business sell itself by engineering the right incentives for every stakeholder***
-
-&nbsp;
-
-- Identifies every stakeholder: customers, vendors, distributors, partners
-- Engineers 3–5 compounding incentive layers that align everyone's self-interest with your revenue
-- Calculates exact profit increase % per stakeholder — shows who benefits most and why
-- Classifies incentives: Financial · Social · Environmental · Behavioral
-- Outputs the highest-leverage incentive tier to prioritize first
+```
+❌  Founders spend months planning before validating a single dollar
+❌  Pricing is guessed, not calculated — margin gets destroyed
+❌  Incentive structures are ignored — so the business doesn't sell itself
+❌  Business plans get built in isolation — blind spots never surfaced
+❌  No storefront, no pitch, no financial model — just an idea sitting idle
+```
 
 ---
 
-### 💰 3 · Precision Pricing Model
-**→ *Enter the market at exactly the right price — not too high to repel, not too low to lose***
+## 🟢 The Solution
 
-&nbsp;
+```
+✅  One $200 payment → 16 complete business deliverables
+✅  AI-engineered incentive stack — makes your business self-propagating
+✅  Precision pricing model — cost to produce → wholesale → retail → competitor
+✅  Live e-commerce store — accepting real orders before you leave the platform
+✅  Investor-ready pitch — built from your actual data, not a template
+✅  Actuarial cost model — you know your break-even to the cent, always
+```
 
-- Calculates your full price ladder: `cost to produce → wholesale → retail low → retail high`
-- Written competitor comparison — where your price sits and why it wins
+---
+
+## ⚡ How It Works
+
+```
+STEP 1 ──────────────────────────────────────────────────────────
+  [ INPUT YOUR IDEA ]
+  Paste your business concept. Title + description.
+  No formatting required. No MBA needed.
+
+STEP 2 ──────────────────────────────────────────────────────────
+  [ PAY ONCE — $200 ]
+  Stripe Live Mode checkout. Secure. Instant. No subscription.
+  Access unlocks immediately after payment confirmation.
+
+STEP 3 ──────────────────────────────────────────────────────────
+  [ RECEIVE YOUR COMPLETE BUSINESS SYSTEM ]
+  16 AI-generated deliverables — built from your actual concept.
+  Pricing model. Incentive stack. Live store. Investor pitch. All of it.
+
+STEP 4 ──────────────────────────────────────────────────────────
+  [ EXECUTE AND EARN ]
+  Your store is live. Your pitch is ready. Your roadmap is defined.
+  Revenue is the only remaining variable.
+```
+
+---
+
+## 🎯 The 16-Deliverable System
+
+> Each deliverable solves a **specific, costly founder mistake**.
+> Click any section to understand the problem it eliminates.
+
+---
+
+<details>
+<summary><b>💡 01 · Idea Analysis Engine</b> &nbsp;|&nbsp; <code>Eliminates: months of unstructured planning</code></summary>
+
+<br>
+
+**🔴 The Mistake It Prevents:**
+> Founders spend weeks trying to "structure" their idea before taking any action. Most never finish.
+
+**🟢 What This Delivers:**
+- Paste any raw concept — AI structures it into a complete commercial framework automatically
+- Outputs: market position · stakeholder map · pricing ladder · operational model · viability score
+- Results saved permanently — your account, your data, always accessible
+- Every other deliverable in this system is built on top of this output
+
+**🔵 How It Works (Technical):**
+```
+INPUT:  { title: string, raw_concept: string }
+PROCESS: LLM prompt with schema-enforced JSON output
+OUTPUT:  Typed business blueprint → persisted to BusinessIdea entity
+```
+
+</details>
+
+---
+
+<details>
+<summary><b>🏗️ 02 · Incentive Stack Architecture</b> &nbsp;|&nbsp; <code>Eliminates: businesses that don't sell themselves</code></summary>
+
+<br>
+
+**🔴 The Mistake It Prevents:**
+> Most businesses rely entirely on the founder's hustle to generate sales. That doesn't scale. If your incentive structure is wrong, every sale is hard.
+
+**🟢 What This Delivers:**
+- Every stakeholder identified: customers · vendors · distributors · partners · regulators
+- 3–5 compounding incentive layers engineered per stakeholder
+- `profit_increase_percent` calculated per stakeholder — who benefits most and why
+- Incentive classification: `Financial` | `Social` | `Environmental` | `Behavioral`
+- Highest-leverage incentive tier flagged for immediate priority execution
+
+**🔵 Incentive Layer Structure:**
+```
+Layer 1 → Core financial incentive     (makes the sale rational)
+Layer 2 → Social/status incentive      (makes the sale desirable)
+Layer 3 → Behavioral incentive         (makes repeat behavior automatic)
+Layer 4 → Network incentive            (makes customers recruit customers)
+Layer 5 → Systemic incentive           (makes switching painful)
+```
+
+</details>
+
+---
+
+<details>
+<summary><b>💰 03 · Precision Pricing Model</b> &nbsp;|&nbsp; <code>Eliminates: under-pricing and margin destruction</code></summary>
+
+<br>
+
+**🔴 The Mistake It Prevents:**
+> 80% of founders underprice by 30–50% because they guess instead of calculate. Margin destruction is invisible until it's fatal.
+
+**🟢 What This Delivers:**
+- Full price ladder calculated from first principles:
+  ```
+  cost_to_produce → wholesale_price → retail_low → retail_high
+  ```
+- Written competitor comparison — exactly where your price sits and why it wins
 - Market position verdict: `Premium Low Volume` | `Mass Market High Volume` | `Hybrid`
-- Flags under-pricing risk and margin compression scenarios before they happen
+- Under-pricing risk and margin compression scenarios flagged before you enter the market
+
+</details>
 
 ---
 
-### 🏢 4 · Company Architecture Blueprint
-**→ *Know exactly who to hire first, what to build first, and what it will cost***
+<details>
+<summary><b>🏢 04 · Company Architecture Blueprint</b> &nbsp;|&nbsp; <code>Eliminates: hiring wrong, building wrong, spending wrong</code></summary>
 
-&nbsp;
+<br>
 
-- Full org structure with hire sequence and role justification
-- Key partnerships mapped with strategic rationale
-- Revenue streams and cost structure defined before you spend a dollar
-- Tech stack recommendations and KPIs per growth stage
+**🔴 The Mistake It Prevents:**
+> Most founders hire reactively, build features nobody needs, and spend on infrastructure before validating revenue.
 
----
+**🟢 What This Delivers:**
+- Org structure with explicit hire sequence and role justification
+- Key partnerships mapped with strategic rationale for each
+- Revenue streams and cost structure defined before a single dollar is spent
+- Tech stack recommendations and KPIs calibrated to your growth stage
 
-### 📊 5 · Profit Simulation Engine
-**→ *See your next 24 months — before they happen***
-
-&nbsp;
-
-- Three scenario projections: Conservative · Base · Aggressive
-- Unit economics: revenue per user, cost per user, gross margin %
-- Visual break-even charts — know the exact number that changes everything
-- Risk assessment and strategic levers to pull if you're falling behind
+</details>
 
 ---
 
-### 🗺️ 6 · Execution Roadmap
-**→ *A week-by-week plan so you always know exactly what to do next***
+<details>
+<summary><b>📊 05 · Profit Simulation Engine</b> &nbsp;|&nbsp; <code>Eliminates: financial surprises that kill the business</code></summary>
 
-&nbsp;
+<br>
 
-- Phased task breakdown with milestones and dependencies
-- Critical path identified — know which tasks unblock everything else
-- Risk flags with pre-mitigation steps built in
+**🔴 The Mistake It Prevents:**
+> Founders discover their break-even number after they've already spent the capital to reach it.
+
+**🟢 What This Delivers:**
+- 24-month multi-scenario financial projection:
+  ```
+  Conservative  →  Base Case  →  Aggressive
+  ```
+- Unit economics: `revenue_per_user` · `cost_per_user` · `gross_margin_%`
+- Visual break-even charts (Recharts) — the exact number that changes everything
+- Risk factors and strategic levers — what to pull if you're falling behind projection
+
+</details>
+
+---
+
+<details>
+<summary><b>🗺️ 06 · Execution Roadmap</b> &nbsp;|&nbsp; <code>Eliminates: "what do I do next?" paralysis</code></summary>
+
+<br>
+
+**🔴 The Mistake It Prevents:**
+> Founders freeze at the execution layer because they have a vision but no ordered, week-by-week action plan.
+
+**🟢 What This Delivers:**
+- Week-by-week phased task breakdown with milestones and dependencies
+- Critical path identified — which tasks unblock everything else
+- Risk flags with pre-built mitigation steps per risk
 - Interactive task tracker — check off progress as you execute
 
----
-
-### 🌐 7 · Ecosystem Stakeholder Map
-**→ *See the full playing field — competitors, allies, regulators, and market forces — all at once***
-
-&nbsp;
-
-- Meta-systems analysis across 5 domains:
-  - 🟡 **Economic** · 🔵 **Social** · 🟣 **Technological** · 🔴 **Regulatory** · 🟠 **Psychological**
-- Cross-domain interaction mapping — finds strategic opportunities at the intersections
-- Trend direction scoring: `Accelerating` | `Stable` | `Decelerating`
-- Surfaces hidden levers most founders never see
+</details>
 
 ---
 
-### 🔎 8 · Blind Spot & Cognitive Bias Detector
-**→ *Find the assumptions that would have cost you money — before they do***
+<details>
+<summary><b>🌐 07 · Ecosystem Stakeholder Map</b> &nbsp;|&nbsp; <code>Eliminates: strategic blindness to market forces</code></summary>
 
-&nbsp;
+<br>
 
-- AI runs recursive observer modeling against your stated assumptions
-- Surfaces cognitive archetypes: Confirmation Bias · Survivorship Bias · Optimism Bias · and more
-- Severity scoring per bias: `Critical` | `High` | `Medium` | `Low`
-- Actionable inversion exercises — how to neutralize each blind spot specifically
+**🔴 The Mistake It Prevents:**
+> Founders enter markets without understanding who the real players are, what forces are in motion, and where the hidden leverage points sit.
+
+**🟢 What This Delivers:**
+- Meta-systems analysis across 5 simultaneous domains:
+
+| Domain | Color | What It Reveals |
+|---|---|---|
+| Economic | 🟡 Yellow | Market size, pricing pressure, capital flows |
+| Social | 🔵 Blue | Behavioral trends, community dynamics |
+| Technological | 🟣 Purple | Infrastructure shifts, tool availability |
+| Regulatory | 🔴 Red | Legal exposure, compliance vectors |
+| Psychological | 🟠 Orange | Cognitive biases operating in your market |
+
+- Cross-domain interaction mapping — strategic opportunities at the intersections
+- Trend scoring: `Accelerating` | `Stable` | `Decelerating` per force
+
+</details>
 
 ---
 
-### ⚗️ 9 · Paradigm Generator
-**→ *Break out of conventional thinking and find the strategic angle no competitor has seen***
+<details>
+<summary><b>🔎 08 · Blind Spot & Cognitive Bias Detector</b> &nbsp;|&nbsp; <code>Eliminates: the assumptions that silently kill businesses</code></summary>
 
-&nbsp;
+<br>
 
-- Generates novel, non-obvious business paradigms from your constraints
-- Synthesizes emergent frameworks beyond standard business model templates
-- Meta-paradigm + specific paradigms + implementation notes per output
-- For founders who want a genuine competitive asymmetry, not a copycat model
+**🔴 The Mistake It Prevents:**
+> Every founder has 3–7 unexamined assumptions baked into their model. These are invisible from the inside. They surface only after money has been lost.
+
+**🟢 What This Delivers:**
+- AI runs recursive observer modeling against your stated assumptions (two-pass analysis)
+- Detected bias archetypes surfaced with severity scoring:
+
+| Severity | Color | Action Required |
+|---|---|---|
+| `Critical` | 🔴 Red | Address before any capital deployment |
+| `High` | 🟠 Orange | Address before market entry |
+| `Medium` | 🟡 Yellow | Monitor and revisit quarterly |
+| `Low` | 🟢 Green | Acknowledge and document |
+
+- Actionable inversion exercise per bias — exactly how to neutralize each one
+
+</details>
 
 ---
 
-### 🛍️ 10 · Live E-Commerce Store Builder ⭐
-**→ *A real, branded storefront — accepting real orders — before you leave this platform***
+<details>
+<summary><b>⚗️ 09 · Paradigm Generator</b> &nbsp;|&nbsp; <code>Eliminates: copycat models with no competitive asymmetry</code></summary>
 
-&nbsp;
+<br>
 
-- AI generates your store name, tagline, branding, and color palette from your concept
-- Fully live public storefront at your own URL: `/store/your-store-name`
+**🔴 The Mistake It Prevents:**
+> Most new businesses are slight variations of existing ones — same model, same market position, same vulnerability to incumbents.
+
+**🟢 What This Delivers:**
+- Non-obvious, novel business paradigms generated from your specific constraints
+- Emergent strategic frameworks beyond standard business model templates
+- Output structure: `meta-paradigm → specific paradigms → implementation notes per paradigm`
+- Designed for founders who want a genuine unfair advantage, not an iteration
+
+</details>
+
+---
+
+<details>
+<summary><b>🛍️ 10 · Live E-Commerce Store Builder ⭐</b> &nbsp;|&nbsp; <code>Eliminates: months between idea and first sale</code></summary>
+
+<br>
+
+**🔴 The Mistake It Prevents:**
+> Most founders spend months building a store before making a single sale. This delivers a live, branded, revenue-accepting storefront before they leave the platform.
+
+**🟢 What This Delivers:**
+- AI generates: store name · tagline · branding · color palette — from your concept
+- Fully live public storefront at `/store/your-store-name`
 - Real product listings with AI-generated descriptions and smart pricing
-- Stripe checkout integration — customers can buy immediately
-- Order management dashboard — track every sale and fulfillment status
+- Stripe checkout integrated — customers can purchase immediately
+- Order management dashboard — every sale tracked with fulfillment status
 - Configurable fulfillment threshold — automate your scale trigger
 
----
+**🔵 Store Architecture:**
+```
+Store Entity
+├── store_slug         (public URL)
+├── primary_color      (AI-generated brand color)
+├── fulfillment_threshold (auto-scale trigger)
+└── StoreProducts[]
+    ├── stripe_price_id    (live Stripe price)
+    ├── cost_to_produce    (margin tracking)
+    └── StoreOrders[]
+        ├── payment_status
+        └── fulfillment_escalated
+```
 
-### 📣 11 · Ad Store Builder — Zero Inventory Revenue
-**→ *A second income stream that earns while you sleep — no products, no shipping, no overhead***
-
-&nbsp;
-
-- AI-designed affiliate and ad-monetized store strategy for your niche
-- Maps: content hooks, affiliate programs, commission structures, traffic sources
-- Projects revenue at 100 · 1,000 · 10,000 monthly visitors
-- Pure margin model — earn without ever touching a physical product
-
----
-
-### 📄 12 · Investor-Ready Pitch Deck
-**→ *Walk into any room with a pitch built from real data — not a template***
-
-&nbsp;
-
-- Narrative constructed from your actual analysis output — no generic slides
-- Covers every section investors expect: Problem · Solution · Market · Model · Traction · Ask
-- Financial projections pulled from your Profit Simulation Engine
-- Ready for accelerator applications, angel meetings, or crowdfunding campaigns
+</details>
 
 ---
 
-### 📅 13 · Revenue Milestone Map
-**→ *A month-by-month path from $0 to your target — with every step defined***
+<details>
+<summary><b>📣 11 · Ad Store Builder — Zero Inventory</b> &nbsp;|&nbsp; <code>Eliminates: needing capital, inventory, or fulfillment to earn</code></summary>
 
-&nbsp;
+<br>
 
-- Visual timeline from zero revenue to your defined financial goal
-- Each milestone gated by a specific, required action — no vague "grow revenue" steps
-- Revenue trigger annotations show exactly what unlocks the next phase
-- Designed around the Build-to-Revenue™ principle: revenue funds the next layer
+**🔴 The Mistake It Prevents:**
+> Founders assume revenue requires inventory, fulfillment, and overhead. The Ad Store model earns through affiliate commissions and sponsored content — zero physical product required.
 
----
+**🟢 What This Delivers:**
+- Affiliate + ad-monetized store strategy for your specific niche
+- Content hooks, affiliate programs, commission structures, and traffic sources mapped
+- Revenue projections at `100` · `1,000` · `10,000` monthly visitors
+- Pure margin model — every dollar earned is nearly all profit
 
-### 🧭 14 · Decision Framework Builder
-**→ *A custom reasoning system for your business — so every hard decision has a structure***
-
-&nbsp;
-
-- Generates a cognitive operating system tailored to your specific business context
-- Outputs: decision algorithms, mental models, triage protocols, diagnostic filters
-- Built for high-stakes decisions under uncertainty and time pressure
-- Based on recursive system-thinking methodology — not generic advice
+</details>
 
 ---
 
-### 🔮 15 · Reality Model Synthesis
-**→ *A 360° stress test of your business model across six dimensions of reality***
+<details>
+<summary><b>📄 12 · Investor-Ready Pitch Deck</b> &nbsp;|&nbsp; <code>Eliminates: pitching with a generic template and getting passed on</code></summary>
 
-&nbsp;
+<br>
 
-- Six-dimension analysis with radar chart visualization:
-  - 💵 Financial · 🧠 Psychological · 👥 Social · ⚙️ Technological · ⏱️ Temporal · ⚔️ Competitive
-- Alignment scores per dimension — see where your model is strong vs. fragile
-- Outputs: core truths, structural tensions, trajectory predictions, falsifiability tests
-- Identifies where your assumptions diverge from market reality before it costs you
+**🔴 The Mistake It Prevents:**
+> Investors see 100 pitches that all look the same. Generic slides built from templates signal that the founder hasn't done the analytical work.
 
----
+**🟢 What This Delivers:**
+- Pitch narrative built from your actual analysis data — not a template
+- Covers every section investors require: `Problem → Solution → Market → Model → Traction → Ask`
+- Financial projections pulled directly from your Profit Simulation Engine
+- Ready for: accelerator applications · angel meetings · crowdfunding campaigns
 
-### 📈 16 · Actuarial Dashboard
-**→ *Know your platform's financial health down to the cent — at all times***
-
-&nbsp;
-
-- Real-time cost breakdown: AI compute · storage · bandwidth · API calls · Stripe fees
-- `Shutdown Risk Score`: 0 = completely safe → 100 = immediate action required
-- Break-even user count, gross margin %, and cost-per-user tracked live
-- Daily automated snapshots for longitudinal financial trend analysis
+</details>
 
 ---
 
-## 💳 How the Payment Works
+<details>
+<summary><b>📅 13 · Revenue Milestone Map</b> &nbsp;|&nbsp; <code>Eliminates: vague goals with no defined path to hit them</code></summary>
 
-| | |
-|---|---|
-| 💵 **Price** | $200 · one-time · no subscription |
-| ⚡ **Delivery** | Instant — all 16 features unlocked immediately after payment |
-| 🔒 **Provider** | Stripe Live Mode — the same payment infrastructure used by Amazon and Shopify |
-| 🎯 **Model** | Single-use analysis — pay once, get your complete business system |
-| ✅ **After Payment** | Redirected back to the platform · access granted · analysis begins immediately |
-| 🔄 **Webhook** | `checkout.session.completed` confirmed server-side before access unlocks |
+<br>
+
+**🔴 The Mistake It Prevents:**
+> "Grow revenue" is not a plan. Founders set targets with no defined month-by-month path to reach them.
+
+**🟢 What This Delivers:**
+- Month-by-month path from net revenue = `$0` to your defined financial target
+- Each milestone gated by a specific, required action — no ambiguous steps
+- Revenue trigger annotations — what event unlocks the next phase
+- Built around Build-to-Revenue™ Rule 3: revenue funds the next layer
+
+</details>
 
 ---
 
-## 🏗️ Technical Architecture
+<details>
+<summary><b>🧭 14 · Decision Framework Builder</b> &nbsp;|&nbsp; <code>Eliminates: gut-feel decisions that cost money</code></summary>
+
+<br>
+
+**🔴 The Mistake It Prevents:**
+> High-stakes business decisions made without a structured reasoning system produce inconsistent, emotionally biased outcomes.
+
+**🟢 What This Delivers:**
+- Custom cognitive operating system built for your specific business context
+- Outputs: `decision algorithms` · `mental models` · `triage protocols` · `diagnostic filters`
+- Engineered for high-stakes decisions under uncertainty and time pressure
+- Based on recursive system-thinking methodology — not generic MBA frameworks
+
+</details>
 
 ---
 
-### Frontend Stack
+<details>
+<summary><b>🔮 15 · Reality Model Synthesis</b> &nbsp;|&nbsp; <code>Eliminates: building on assumptions that don't match reality</code></summary>
 
-| Layer | Technology | Purpose |
+<br>
+
+**🔴 The Mistake It Prevents:**
+> Founders build models based on how they want the world to work, not how it actually works. The gap between those two things is where businesses fail.
+
+**🟢 What This Delivers:**
+- 6-dimension stress test with radar chart visualization:
+
+| Dimension | Icon | What It Tests |
 |---|---|---|
-| **Framework** | React 18 + Vite | Fast, component-driven UI |
-| **Styling** | Tailwind CSS + shadcn/ui | Consistent, responsive design system |
-| **Animations** | Framer Motion | Smooth, professional transitions |
-| **Charts** | Recharts | Financial and analytical visualizations |
-| **Routing** | React Router v6 | Client-side navigation |
-| **State** | TanStack React Query v5 | Server state, caching, background sync |
+| Financial | 💵 | Revenue assumptions vs. cost reality |
+| Psychological | 🧠 | Founder bias in model construction |
+| Social | 👥 | Market behavior vs. stated assumptions |
+| Technological | ⚙️ | Infrastructure feasibility |
+| Temporal | ⏱️ | Timeline realism and sequencing |
+| Competitive | ⚔️ | Incumbent response and moat durability |
+
+- Outputs: `core truths` · `structural tensions` · `trajectory predictions` · `falsifiability tests`
+
+</details>
 
 ---
 
-### Backend Stack
+<details>
+<summary><b>📈 16 · Actuarial Dashboard</b> &nbsp;|&nbsp; <code>Eliminates: not knowing if your platform is profitable or dying</code></summary>
 
-| Layer | Technology | Purpose |
+<br>
+
+**🔴 The Mistake It Prevents:**
+> Most platform operators don't know their true unit economics until they're already losing money. By then, the damage is done.
+
+**🟢 What This Delivers:**
+- Real-time cost breakdown: `AI compute` · `storage` · `bandwidth` · `API calls` · `Stripe fees`
+- `shutdown_risk_score`: `0` (completely safe) → `100` (immediate action required)
+- Live metrics: `break_even_users` · `gross_margin_%` · `cost_per_user_usd`
+- Daily automated snapshots for longitudinal trend analysis
+
+</details>
+
+---
+
+## 🏗️ Build-to-Revenue™ Framework
+
+> *The proprietary 8-rule operating system that ensures this platform — and every business built on it — cannot be killed by a slow month.*
+
+<br>
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                    THE BUILD-TO-REVENUE™ LOOP                       │
+│                                                                     │
+│   MEASURE COST  →  VALIDATE VALUE  →  REVENUE EVENT                │
+│        ↑                                       ↓                   │
+│   BORROW NEXT LAYER  ←  ACTUARIAL UPDATE  ←  DATA CAPTURE          │
+│                                                                     │
+│   At no point does this loop require outside capital.               │
+│   A dry month costs nothing. The system cannot be shut down.        │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+<br>
+
+| # | 🎨 Color | Rule | Applied In This Codebase |
+|---|---|---|---|
+| **1** | 🟡 Yellow | **Validated Actions Only** — measure before spending | LLM fires only after `checkout.session.completed` confirms payment |
+| **2** | 🟠 Orange | **Zero Speculative Spend** — no pre-build, no pre-hire | No infrastructure purchased before revenue validates it |
+| **3** | 🟢 Green | **Revenue-Funded Scale** — next layer paid by previous revenue | Store Builder + Ad Store unlocked by Idea Analysis revenue tier |
+| **4** | 🔵 Blue | **Revenue as the Only Proof** — projections are noise | `PlatformMetric` tracks real revenue, not projected |
+| **5** | 🟣 Purple | **Actuarial Cost Measurement** — unit cost at every scale | `computePlatformMetrics` calculates per-token, per-record, per-call |
+| **6** | 🔴 Red | **Zero Fixed Cost Operations** — all costs event-triggered | Deno + Base44 + Stripe charge per-event only — zero idle burn |
+| **7** | ⚪ White | **Borrow, Never Own Infrastructure** — pay-per-use everything | No owned servers, databases, or payment rails |
+| **8** | 🩵 Cyan | **User Data Defines the Fee Structure** — win only when users win | `shutdown_risk_score` operationalizes existential risk as a live number |
+
+---
+
+## 🧠 Prompt Engineering — Reverse-Engineered Techniques
+
+> *How the AI produces specific, actionable, non-generic outputs every time.*
+
+<br>
+
+```
+TECHNIQUE 1 ── SCHEMA-ENFORCED STRUCTURED OUTPUT
+─────────────────────────────────────────────────
+Every LLM call specifies response_json_schema with:
+  → Typed fields (string, number, array, enum)
+  → Required field enforcement
+  → Nested object constraints
+  → Numeric range bounding
+
+WHY: Eliminates hallucinated keys. Guarantees parseable,
+     consistent output across 100% of calls.
+
+═══════════════════════════════════════════════════════
+
+TECHNIQUE 2 ── EXPERT ROLE PRIMING
+────────────────────────────────────
+System prompt assigns domain expert persona before every call.
+Example: "You are a business viability expert specializing
+in stacking incentives and creating investor-ready models..."
+
+WHY: Role priming measurably improves domain-specific
+     reasoning depth vs. generic unprompted calls.
+
+═══════════════════════════════════════════════════════
+
+TECHNIQUE 3 ── SCHEMA-AS-REASONING-CHAIN
+─────────────────────────────────────────
+Field order in schema creates implicit chain-of-thought.
+  layer → incentive_type → description → value_created → beneficiary
+
+WHY: Each field scaffolds the next. The schema IS the
+     reasoning chain — no explicit CoT prompting needed.
+
+═══════════════════════════════════════════════════════
+
+TECHNIQUE 4 ── CONSTRAINT INJECTION
+──────────────────────────────────────
+User inputs injected as grounding variables into prompt body.
+  title, concept, market_position, timeline, stage, model_type
+
+WHY: Prevents generic outputs. Every analysis is specific
+     to the user's actual idea, not a template response.
+
+═══════════════════════════════════════════════════════
+
+TECHNIQUE 5 ── MULTI-DOMAIN SIMULTANEOUS ANALYSIS
+──────────────────────────────────────────────────
+Reality Model + Ecosystem Mapper prompt across 5–6 domains
+in a SINGLE call. Domain independence enforced in schema.
+
+WHY: Produces cross-domain interaction insights unavailable
+     from sequential single-domain prompts.
+
+═══════════════════════════════════════════════════════
+
+TECHNIQUE 6 ── RECURSIVE OBSERVER MODELING
+───────────────────────────────────────────
+Pass 1: Model analyzes founder assumptions (external observer)
+Pass 2: Model analyzes its own Pass 1 output (meta-analysis)
+
+WHY: Second-order reasoning surfaces blind spots that are
+     structurally invisible to single-pass analysis.
+```
+
+---
+
+## 📊 Business Intelligence Architecture
+
+```
+DAILY AUTOMATED SNAPSHOT (computePlatformMetrics)
+══════════════════════════════════════════════════
+  🟡 total_paying_users          → growth velocity
+  🟢 total_revenue_usd           → gross revenue
+  🔵 total_store_gmv             → platform value creation
+  🔴 estimated_ai_cost_usd       → per-analysis AI burn
+  🟣 estimated_stripe_fees_usd   → payment processing cost
+  ⚪ gross_margin_usd            → real profitability
+  🩵 shutdown_risk_score         → existential risk (0→100)
+  🟠 break_even_users            → survival threshold
+  🔵 cost_per_user_usd           → unit economics floor
+  🟢 revenue_per_user_usd        → unit economics ceiling
+```
+
+---
+
+## 📐 Skills & Disciplines Matrix
+
+| 🎨 | Discipline | Where Applied in Codebase |
 |---|---|---|
-| **Functions** | Deno Deploy (serverless) | Edge-hosted backend logic |
-| **Database** | Base44 Entity Store | Managed, schema-enforced data persistence |
-| **Payments** | Stripe Checkout + Webhooks | Live payment processing and event handling |
-| **AI / LLM** | GPT-4o-mini + Claude Sonnet | Structured business analysis generation |
-| **Auth** | Base44 Auth Platform | Email-based sessions, role management |
-
----
-
-## 🧠 Prompt Engineering — Techniques Applied
-
----
-
-### 📐 Schema-Enforced Structured Output
-- Every LLM call specifies a strict `response_json_schema` — typed, nested, enum-constrained
-- Guarantees parseable, consistent output across every analysis
-- Zero hallucinated keys — schema defines exactly what the model can return
-
----
-
-### 🎭 Expert Role Priming
-- System prompts assign domain expert personas before every call
-- *"You are a business viability expert specializing in stacking incentives and creating investor-ready models..."*
-- Measurably improves domain-specific reasoning depth vs. unprompted calls
-
----
-
-### 🔗 Chain-of-Thought via Schema Scaffolding
-- Schema field order creates an implicit reasoning chain
-- Each required field scaffolds the next: `incentive_type → description → value_created → beneficiary`
-- The schema architecture IS the reasoning chain — no explicit CoT prompting needed
-
----
-
-### 📌 Constraint Injection
-- User inputs injected as grounding variables directly into the prompt body
-- Prevents generic outputs — every analysis is specific to the user's actual idea
-- Injected constraints: title, concept, market position, timeline, stage, business model type
-
----
-
-### 🌐 Multi-Dimensional Simultaneous Analysis
-- Reality Model and Ecosystem Mapper prompt across 5–6 independent domains in a single call
-- Domain independence enforced in schema to prevent analytical bleed between dimensions
-- Produces cross-domain synthesis insights unavailable from single-domain prompts
-
----
-
-### 🪞 Recursive Observer Modeling
-- Pass 1: Model analyzes founder assumptions from external observer perspective
-- Pass 2: Model analyzes its own first-pass analysis for second-order biases
-- Surfaces blind spots that are structurally invisible to single-pass analysis
-
----
-
-## 📊 Business Intelligence & Administration
-
----
-
-### 🏦 Actuarial Cost Model
-- Every cost measured at unit level: per AI token · per stored record · per API call · per transaction
-- All costs variable and event-triggered — zero idle overhead, zero fixed burn
-- `break_even_users`, `cost_per_user_usd`, `revenue_per_user_usd` calculated live per snapshot
-
----
-
-### 📉 Daily Platform Metric Snapshots
-Automated daily function captures and stores:
-
-- `total_paying_users` · `total_revenue_usd` · `total_store_gmv`
-- `estimated_ai_cost_usd` · `estimated_stripe_fees_usd` · `estimated_storage_cost_usd`
-- `gross_margin_usd` · `gross_margin_percent` · `shutdown_risk_score` · `break_even_users`
-
----
-
-### 📡 Phase Intelligence System
-- Phase 1 → Phase 2 at **50 paying customers** (operational scale trigger)
-- Phase 2 → Phase 3 at **500 paying customers** (legal risk threshold — LLC review point)
-- All phase transitions logged with ISO timestamps for full audit trail
-
----
-
-### 🏪 Store-Level GMV Tracking
-- Per-store revenue, order count, fulfillment status, and threshold progress tracked individually
-- Admin portal aggregates all stores, products, and orders platform-wide
-- `owner_email` tagged on every product and order for operator-level attribution
-
----
-
-## 🏛️ Incentive Engineering — Applied at Two Levels
-
----
-
-### For Your Business (What You Receive)
-- Every stakeholder mapped to their rational self-interest vector
-- Incentive layers engineered to align stakeholder behavior with your revenue
-- Compounding effect calculated across the full value chain
-- Minimum incentive package to make the business self-propagating — identified and delivered
-
----
-
-### For This Platform (How It's Designed)
-- You pay $200 → receive measurably more than $200 in value on first sale → incentive to return
-- Store GMV model (roadmap): platform earns only when you earn → perfect incentive alignment
-- Ad Store model: zero-inventory users earn passively → engagement with zero friction
-- Phase tracking: platform deliberately self-limits aggressive monetization until user base validates scale
-
----
-
-## 🏗️ Build-to-Revenue™ — The 8-Rule Operating Framework
-
-> *The system that ensures this platform cannot be killed by a slow month — and the same framework delivered to every user for their own business.*
-
----
-
-| # | Rule | What It Means in Practice |
-|---|---|---|
-| **1** | ✅ Validated Actions Only | Every action is measured and validated before it costs anything |
-| **2** | 🚫 Zero Speculative Spend | No pre-building, no pre-hiring, no pre-purchasing infrastructure |
-| **3** | 📈 Revenue-Funded Scale | The next infrastructure layer is unlocked only by revenue from the previous layer |
-| **4** | 💵 Revenue as the Only Proof | Revenue validates execution. Everything else — projections, decks, user counts — is noise |
-| **5** | 🔬 Actuarial Cost Measurement | Every cost tracked at unit level from 1 to 1,000,000 users — no aggregate guessing |
-| **6** | ⚡ Zero Fixed Cost Operations | All costs are variable and event-triggered — a dry month costs nothing and cannot cause shutdown |
-| **7** | 🏛️ Borrow, Never Own Infrastructure | Base44 + Stripe + AI APIs — all pay-per-use, zero owned servers, zero owned databases |
-| **8** | 🔄 User Data Defines the Fee Structure | Platform charges only when users generate revenue — the system wins only when you win |
-
----
-
-### How Build-to-Revenue™ Appears in the Codebase
-
-- 🟡 **Rules 1–2** → LLM compute fires only after `checkout.session.completed` confirms payment — zero speculative AI spend
-- 🟢 **Rule 3** → Store Builder and Ad Store unlocked by revenue from the Idea Analysis tier
-- 🔵 **Rule 5** → `computePlatformMetrics` calculates per-unit cost for every variable on a daily automated schedule
-- 🔴 **Rule 6** → Deno functions, Base44 entities, and Stripe all charge per-event — absolute zero idle cost
-- 🟣 **Rule 7** → No owned servers, no owned databases, no owned payment rails — entirely borrowed infrastructure
-- ⚪ **Rule 8** → `shutdown_risk_score` in `PlatformMetric` operationalizes existential risk as a live, trackable number
-
----
-
-## 📐 Skills & Disciplines — Applied Matrix
-
-| Discipline | Where It Appears |
-|---|---|
-| 🧠 **Prompt Engineering** | Schema-enforced outputs · role priming · recursive observer modeling · constraint injection |
-| 📊 **Business Intelligence** | Daily metric snapshots · actuarial cost modeling · GMV tracking · phase analytics |
-| 🏢 **Business Administration** | Row-level security · role-based access control · admin portal · audit trails via `owner_email` |
-| 💸 **Cost Structure Design** | Variable-only cost model · unit-level measurement · zero-fixed-cost architecture |
-| 🎯 **Incentive Engineering** | Stakeholder stack analysis · platform incentive alignment · revenue-sharing model design |
-| 📉 **Financial Modeling** | 24-month projections · break-even analysis · gross margin · shutdown risk scoring |
-| 🌐 **Systems Thinking** | Ecosystem mapping · cross-domain analysis · recursive observer modeling · paradigm generation |
-| 🏗️ **Build-to-Revenue™** | Proprietary 8-rule framework applied at architecture, product, pricing, cost, and incentive layers |
+| 🟡 | **Prompt Engineering** | Schema-enforced outputs · role priming · recursive observer modeling · constraint injection |
+| 🔵 | **Business Intelligence** | Daily metric snapshots · actuarial cost modeling · GMV tracking · phase analytics |
+| 🟠 | **Business Administration** | Row-level security · role-based access · admin portal · `owner_email` audit trails |
+| 🔴 | **Cost Structure Design** | Variable-only model · unit-level measurement · zero-fixed-cost architecture |
+| 🟣 | **Incentive Engineering** | Stakeholder stack analysis · platform incentive alignment · revenue-sharing model |
+| 🟢 | **Financial Modeling** | 24-month projections · break-even analysis · gross margin · shutdown risk scoring |
+| ⚪ | **Systems Thinking** | Ecosystem mapping · cross-domain analysis · recursive observer · paradigm generation |
+| 🩵 | **Build-to-Revenue™** | Proprietary 8-rule framework at architecture, product, pricing, cost, and incentive layers |
 
 ---
 
 ## 🔄 Backend Function Registry
 
-| Function | Trigger | What It Does |
-|---|---|---|
-| `createSingleUseCheckout` | User clicks Pay | Creates $200 Stripe Checkout session with user metadata |
-| `stripeWebhook` | Stripe POST | Validates signature · processes payment · updates phase tracking |
-| `computePlatformMetrics` | Scheduled daily | Snapshots all financial health metrics to `PlatformMetric` |
-| `createCheckout` | Store purchase | Per-product Stripe session for live storefronts |
-| `getSubscriptionStatus` | Frontend query | Returns current user plan and subscription state |
-| `createSubscriptionRecord` | Post-signup | Initializes free-tier record for all new users |
+```
+FUNCTION                   TRIGGER                    WHAT IT DOES
+──────────────────────────────────────────────────────────────────────
+createSingleUseCheckout  ← User clicks Pay         → $200 Stripe session + metadata
+stripeWebhook            ← Stripe POST event       → Validate sig · process payment · phase update
+computePlatformMetrics   ← Scheduled daily         → Snapshot all financial metrics
+createCheckout           ← Store purchase button   → Per-product Stripe session
+getSubscriptionStatus    ← Frontend query          → Return current user plan state
+createSubscriptionRecord ← Post-signup hook        → Initialize free-tier record
+```
 
 ---
 
 ## 🗄️ Data Architecture
 
-| Entity | What It Stores | Key Intelligence Fields |
-|---|---|---|
-| `BusinessIdea` | Full LLM analysis per user | `viability_score` · `incentive_stack` · `pricing_model` |
-| `Store` | Storefront configuration | `store_slug` · `primary_color` · `fulfillment_threshold` |
-| `StoreProduct` | Products per store | `stripe_price_id` · `cost_to_produce` · `stock_quantity` |
-| `StoreOrder` | Customer orders | `payment_status` · `fulfillment_escalated` · `stripe_session_id` |
-| `LaunchSpec` | AI launch plan per store | `cost_breakdown` · `launch_timeline` · `risk_factors` |
-| `Subscription` | Stripe subscription records | `plan_type` · `status` · `current_period_end` |
-| `AppPhase` | Platform growth phase | `current_phase` · `total_customers` · `phase_3_threshold` |
-| `PlatformMetric` | Daily actuarial snapshots | `shutdown_risk_score` · `gross_margin_percent` · `break_even_users` |
+```
+ENTITY              COLOR    PURPOSE                      KEY INTELLIGENCE FIELDS
+──────────────────────────────────────────────────────────────────────────────────
+BusinessIdea        🟡       Full LLM analysis per user   viability_score · incentive_stack · pricing_model
+Store               🔵       Storefront configuration     store_slug · primary_color · fulfillment_threshold
+StoreProduct        🟢       Products per store           stripe_price_id · cost_to_produce · stock_quantity
+StoreOrder          🔴       Customer orders              payment_status · fulfillment_escalated · session_id
+LaunchSpec          🟣       AI launch plan per store     cost_breakdown · launch_timeline · risk_factors
+Subscription        🟠       Stripe subscription records  plan_type · status · current_period_end
+AppPhase            ⚪       Platform growth phase        current_phase · total_customers · phase_3_threshold
+PlatformMetric      🩵       Daily actuarial snapshots    shutdown_risk_score · gross_margin_% · break_even_users
+```
 
 ---
 
 <div align="center">
 
-**Built on Base44 · Payments via Stripe · Intelligence via GPT-4o & Claude Sonnet**
+---
+
+[![💡 Build Your Business Now](https://img.shields.io/badge/💡%20BUILD%20YOUR%20BUSINESS%20NOW-LAUNCH%20PLATFORM%20→-f59e0b?style=for-the-badge)](https://your-app-url.base44.app)
+
+[![Stripe](https://img.shields.io/badge/Secured%20by-Stripe%20Live%20Mode-635BFF?style=flat-square&logo=stripe)](https://stripe.com)
+[![Base44](https://img.shields.io/badge/Hosted%20on-Base44-6366f1?style=flat-square)](https://base44.com)
+[![AI](https://img.shields.io/badge/Powered%20by-GPT--4o%20%2F%20Claude%20Sonnet-10a37f?style=flat-square)](https://openai.com)
+
+<br>
+
+![Status](https://img.shields.io/badge/Status-🟢%20LIVE%20%26%20ACCEPTING%20PAYMENTS-22c55e?style=flat-square)
+![License](https://img.shields.io/badge/License-Proprietary-ef4444?style=flat-square)
+![Framework](https://img.shields.io/badge/Framework-Build--to--Revenue™-f59e0b?style=flat-square)
+
+<br>
 
 *© Cognitive AI Evolution — All Rights Reserved*
-
-![Made with](https://img.shields.io/badge/Made%20with-Build--to--Revenue™-f59e0b?style=flat-square)
-![License](https://img.shields.io/badge/License-Proprietary-ef4444?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Live%20%26%20Accepting%20Payments-22c55e?style=flat-square)
 
 </div>
 ```
