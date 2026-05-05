@@ -1,4 +1,4 @@
-# 🧠 Cognitive AI Evolution
+# 🧠 Founders Gauntlet
 > *Turn one idea into a complete, revenue-ready business system — in minutes.*
 
 **One $200 payment. 16 AI-powered deliverables. A live storefront accepting real orders before you leave.**
