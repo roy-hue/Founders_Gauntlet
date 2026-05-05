@@ -141,4 +141,4 @@
 ---
 https://idea-catalyst-024894e5.base44.app/
 
-*Built on Base44 · Payments via Stripe Live · AI via GPT-4o & Claude Sonnet · © Cognitive AI Evolution*
+*Built on Base44 · Payments via Stripe Live · AI via GPT-4o & Claude Sonnet · © Founders Gauntlet*
